@@ -1,1 +1,2 @@
-# Capstone-Project---Bike-Sharing-Demand-Prediction--
+# Capstone-Project Bike-Sharing Demand Prediction
+Currently ongoing.
