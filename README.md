@@ -6,7 +6,7 @@ In today’s time, many of the urban cities around the world harbor considerably
 
 •	Exploratory Data Analysis: Bike demand across months and hours of the day, relation between numerical features and bike demand.
 
-•	Building LINEAR MODELS: 
+•	<ins>Building LINEAR MODELS</ins>: 
 
 a)	Data preprocessing and feature engineering.
 
@@ -16,7 +16,7 @@ c)	Training LINEAR, RIDGE & LASSO regression models along with hyper parameter t
 
 d)	Model evaluation.
 
-•	Building TREE BASED MODELS: 
+•	<ins>Building TREE BASED MODELS</ins>: 
 
 a)	Training DECISION TREE, RANDOM FOREST, GRADIENT BOOSTING and EXTREME GRADIENT BOOSTING regression models.
 
